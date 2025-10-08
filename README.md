@@ -6,4 +6,3 @@ sales and cutomer analysis of vrinda store analysis
 
 
 
-<img width="1441" height="619" alt="Screenshot 2025-10-08 072206" src="https://github.com/user-attachments/assets/ca23bd6e-02b9-4f20-84ff-aafa0c931a10" />
