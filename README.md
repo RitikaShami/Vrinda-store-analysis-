@@ -9,7 +9,11 @@
 ---
 --- 
 
-## Description _ 
+## Project Overview  _ 
+
+This project presents a data analysis and visualization report for Vrinda Store’s 2020 sales performance.
+The goal of the report is to provide insights into customer demographics, sales trends, order statuses, and
+channel performance — helping the store identify its key sales drivers and opportunities for growth.
 
 
 
