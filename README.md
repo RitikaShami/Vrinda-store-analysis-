@@ -1,11 +1,11 @@
 # Vrinda-store-analysis-
 
 
-# Table of content 
+## Table of content 
 
 - [Main dashboard](#Main-dashboard)
 - [Data used](#Data-used)
-- 
+- [Project insight](Project-insight) 
 
   ## Main dashboard
 
@@ -29,4 +29,8 @@ channel performance — helping the store identify its key sales drivers and opp
 <img width="450" height="516" alt="image2" src="https://github.com/user-attachments/assets/ce5058d9-b713-4969-b91e-4186a61afa89"hspace="10" />
    
 </p>
+
+## Project insight
+
+
 
