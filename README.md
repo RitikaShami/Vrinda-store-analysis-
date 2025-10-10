@@ -8,7 +8,7 @@
 ## Table of content 
 
 - [Introduction](#Introduction)
-- [Main dashboard](#Main-dashboard)
+- [Main dashboard](#Vrinda)
 - [Data used](#Data-used)
 - [Project insight](#Project-insight)
 
