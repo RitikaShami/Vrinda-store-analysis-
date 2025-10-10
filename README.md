@@ -3,7 +3,7 @@
 
 ### Table of content 
 
--[Main dashboard](#Main dashboard) 
+-[Main dashboard](#maindashboard) 
 
   ### Main dashboard
 
