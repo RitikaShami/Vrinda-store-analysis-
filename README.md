@@ -22,7 +22,7 @@ This project presents a data analysis and visualization report for Vrinda Store�
 The goal of the report is to provide insights into customer demographics, sales trends, order statuses, and
 channel performance — helping the store identify its key sales drivers and opportunities for growth.
 
-## Data used 
+
 
 <p>
 <img width="450" height="516"  alt="image" src="https://github.com/user-attachments/assets/5cb409cd-4fed-4996-b6d7-d4106911ec12"hspace="10" />
@@ -30,7 +30,11 @@ channel performance — helping the store identify its key sales drivers and opp
    
 </p>
 
+## Data used 
+
+
 ## Project insight
+
 
 
 
