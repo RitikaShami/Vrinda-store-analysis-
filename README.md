@@ -1,11 +1,13 @@
 # Vrinda-store-analysis-
 
 
-### Table of content 
+# Table of content 
 
--[Main dashboard](#Main-dashboard) 
+- [Main dashboard](#Main-dashboard)
+- [Data used](#Data-used)
+- 
 
-  ### Main dashboard
+  ## Main dashboard
 
 
 <img width="1455" height="710" alt="2025-10-08 07_20_14-Vrinda Store Data Analysis xlsx - Excel" src="https://github.com/user-attachments/assets/dc0017ac-383c-489f-bf6d-26aef4e5a9b5" />
@@ -20,7 +22,7 @@ This project presents a data analysis and visualization report for Vrinda Storeâ
 The goal of the report is to provide insights into customer demographics, sales trends, order statuses, and
 channel performance â€” helping the store identify its key sales drivers and opportunities for growth.
 
-
+## Data used 
 
 <p>
 <img width="450" height="516"  alt="image" src="https://github.com/user-attachments/assets/5cb409cd-4fed-4996-b6d7-d4106911ec12"hspace="10" />
