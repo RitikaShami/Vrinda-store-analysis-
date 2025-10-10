@@ -5,7 +5,7 @@
 
 - [Main dashboard](#Main-dashboard)
 - [Data used](#Data-used)
-- [Project insight](Project-insight) 
+- [Project insight](#Project-insight) 
 
   ## Main dashboard
 
