@@ -11,12 +11,12 @@ befall
 ## Table of content 
 
 - [Introduction](#Introduction)
-- [Main dashboard](#Vrinda)
+- [Main dashboard](#Dashboard)
 - [Data used](#Data-used)
 - [Project insight](#Project-insight)
 
 
-##  <h1 align="center">Vrinda</h1>
+##  <h1 align="center">Dashboard</h1>
 
 
 
